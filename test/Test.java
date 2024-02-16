@@ -1,4 +1,6 @@
-package ca.sheridancollege.project;
+import ca.sheridancollege.project.WarGame;
+import ca.sheridancollege.project.Player;
+import ca.sheridancollege.project.Card;
 
 import java.util.ArrayList;
 import java.util.Arrays;

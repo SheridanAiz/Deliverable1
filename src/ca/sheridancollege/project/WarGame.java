@@ -64,7 +64,6 @@ public class WarGame extends Game {
 
         System.out.println(player1.getName() + " plays: " + card1);
         System.out.println(player2.getName() + " plays: " + card2);
-
         // compare ranks of the cards
         int comparison = compareRanks(card1, card2);
 
