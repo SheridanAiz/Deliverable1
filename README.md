@@ -76,3 +76,5 @@
   - Write a README file to explain the game rules and the plan for implementation
   - Document the code to explain the implementation details and the flow of the game
   - Add comments to the code to explain the logic and the purpose of each function
+
+### Project made by Muhammad Aiz Baloch
